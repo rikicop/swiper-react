@@ -1,0 +1,28 @@
+Tuve que instalar 
+
+yarn add swiper@6.8.4 --> No la versión 7 por que da problemas...  https://stackoverflow.com/questions/69202975/module-not-found-cant-resolve-swiper-react
+
+
+5:09 --> https://www.youtube.com/watch?v=l4kFO6VQPfA&t=5s --> cambiar el nombre de las etiquetas <li/>
+
+7:30 --> Slides Per View
+
+8:00 --> Tipo de eventos de los slices: 
+         
+         * Cuando esta al principio
+         * Cuando Cambia
+         * Cuando llega a su fin.
+        
+         Si quieres saber más busca Events en la documentación de swiper 
+
+         Fíjate que todos llevan on al principio, esto es en el caso de "REACT" (on y después letra mayúsc):
+   
+         onInit
+         onSlideChange
+         onReachEnd
+
+
+11:08 --> Uso de Hooks!!
+
+12:36 --> Editar Las Circulos de Paginación!!
+ 
