@@ -16,7 +16,7 @@ function App() {
     slides.push(
       <SwiperSlide key={`slide-${i}`} tag="li">
         <img
-          src={`https://picsum.photos/id/${i + 1}/500/300`}
+          src={`https://picsum.photos/id/${i}/500/300`}
           style={{ listStyle: "none" }}
           alt={`Slide ${i}`}
         ></img>
